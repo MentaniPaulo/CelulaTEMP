@@ -1,2 +1,2 @@
 # CelulaTEMP
-Celula de temperatura, o medidor é capaz de medir a temperatura ambiente e temperaturas de objetos, mostrar em display de OLED e enviar as informaçoes via MQTT para Cloud
+A tempeture cell, its display the environment temperature and objects tempeture using a infra-red sensor, display it on Oled display and using MQTT to send to clound and storage its value.
